@@ -1,5 +1,6 @@
 <?php
 /*
+MUUUUUUUDETUD!
 Page:           _drawrating.php
 Created:        Aug 2006
 Last Mod:       Mar 18 2007
